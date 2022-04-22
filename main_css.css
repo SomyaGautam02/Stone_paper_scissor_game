@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(100, 255, 151);
+}
+
+.container{
+    text-align: center;
+}
+.Title{
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    font-size: xx-large;
+    color: rgb(0, 146, 68);
+    padding-top: .08%;
+}
+h1{
+    margin-top: 2%;
+    margin-bottom: 3%;
+}
+img{
+    padding-top: 28px;
+    width: 55%;
+}
+
+p{
+    font-size: 32px;
+    color: rgb(0, 146, 68);
+    font-family: 'Indie Flower', cursive;
+    margin: 0%;
+}
+.middle{
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+}
+
+button{
+    border-radius: 12px;
+    width: 15%;
+    padding: 14px 20px;
+    font-size: medium;
+    background-color: rgb(20, 143, 77);white;
+    color: rgb(255, 255, 255);
+    border-color: rebeccapurple;
+    font-family: 'Indie Flower', cursive;
+}
+
+button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+.copyright{
+    padding-top: 20px;
+    font-size: 18px;
+    color: aliceblue;
+}
